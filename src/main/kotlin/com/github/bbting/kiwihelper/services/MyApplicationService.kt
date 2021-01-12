@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.bbting.kiwihelper.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.bbting.kiwihelper.MyBundle
 
 class MyApplicationService {
 
